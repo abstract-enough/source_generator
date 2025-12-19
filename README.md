@@ -1,1 +1,9 @@
-current generator computationally too complex
+1
+1
+2
+5
+12
+34
+92
+277
+806
